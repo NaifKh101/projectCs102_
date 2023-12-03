@@ -1,0 +1,11 @@
+Orange,1.49,70
+Yogurt,3.29,55
+Avocado,2.99,40
+Cereal,4.49,90
+Spinach,1.99,120
+Tomato,0.79,65
+Peanut Butter,3.99,75
+Carrot,0.99,110
+Rice,2.49,50
+Chocolate,2.79,30
+Watermelon,4.99,25

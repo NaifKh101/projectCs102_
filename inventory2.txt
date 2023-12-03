@@ -1,0 +1,6 @@
+Cola,1.49,50
+Milk,2.39,40
+Banana,4.55,25
+Burger,2.5,100
+Cheese Cake,25.99,50
+coffee powder,20.00,40
